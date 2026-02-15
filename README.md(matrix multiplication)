@@ -24,4 +24,5 @@ ALGORITHM multiply_matrices(A, B)
     END FOR
     
     RETURN result
+    END
 END ALGORITHM
