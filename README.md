@@ -1,6 +1,7 @@
-BEGIN
 ALGORITHM multiply_matrices(A, B)
-    // Get dimensions
+
+    BEGIN
+    // Get dimensions    
     rowsA = length(A)
     colsA = length(A[0]) 
     rowsB = length(B)
